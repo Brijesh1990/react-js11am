@@ -1,0 +1,31 @@
+what is javascript ? 
+javascript is a client side scripting language 
+javascript is used as programming language javascript manage and developed by ECM(ecma
+script organisations).
+javascript file extension .js 
+javascript is most popular client side scripting language 
+javascript provides many libraries and frameworks 
+
+ a) react js 
+ b) jquery 
+ c) angular 
+ d) Vue js 
+ e) express js 
+ f) next js  
+ g) node js     
+
+ javascript is called inside of <script> tag </script>
+ javascript is a case-senstive language
+ examples :document.getElementById()
+ javascript is used to load a dynamic content 
+ javascript is used to fast load data on broswers 
+ javascript is used to create a single web page applications(SPA)
+ javascript is used to create a calculators | form validations | right click disables | loaders app | to do app 
+ javascript is called inside of <body></body> and <head></head>
+
+
+ what is javascript operator ? 
+
+ 
+
+
