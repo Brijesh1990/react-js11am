@@ -16,15 +16,37 @@ javascript provides many libraries and frameworks
 
  javascript is called inside of <script> tag </script>
  javascript is a case-senstive language
- examples :document.getElementById()
+   examples :document.getElementById()
  javascript is used to load a dynamic content 
  javascript is used to fast load data on broswers 
  javascript is used to create a single web page applications(SPA)
  javascript is used to create a calculators | form validations | right click disables | loaders app | to do app 
  javascript is called inside of <body></body> and <head></head>
+ javascript is called <head></head> and <body></body>
 
+ How many types to call javascript ? 
+ a) <body></body>
+ b) <head></head>
+ c) external javascript (main.js)
 
- what is javascript operator ? 
+ Javascript used as programming language so it is provides some output method 
+
+ a) alert 
+ b) prompt
+ c) confirm 
+ d) console.log 
+ e) document.write 
+ f) document.getElementById()
+ g) document.getElementById().value
+ h) document.getElementById().style
+ i) document.getElementById().innerHTML
+ j) document.getElementById().src
+ k) window.print()
+ 
+
+ what is javascript operator ?
+
+   
 
  
 
