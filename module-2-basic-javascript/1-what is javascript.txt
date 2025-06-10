@@ -45,8 +45,101 @@ javascript provides many libraries and frameworks
  
 
  what is javascript operator ?
+     operator operands some actions
+     There are some types of operator ...
 
+     a) airthmatic operator 
+       examples : + , - , / , * , % etc 
+
+       
+     b) assingment operator 
+       examples : =, == , != etc 
    
+     c) comparision operator 
+
+      examples : > , >= , <, <= , === 
+
+     d) logical operator  
+
+       examples : && , ||, ! 
+
+     e) sorthand operator or betwise operator  
+
+       examples : +=, -=, /=,%= , *= 
+
+     f) ternary operator 
+
+       examples : ?: 
+
+
+     g) string concatenations operator 
+
+          examples : + 
+
+     h) increment/decerement operator 
+
+      examples : ++ , --          
+      
+
+   what is javascript variables : 
+
+    A variables is just like container where we stored informations about data i.e called variables.
+
+
+    Note : javascript assigned three identifier for variables 
+
+              a) var 
+              b) let 
+              c) const 
+
+              var a=10;
+              var name="Brijesh";
+
+              let b=20.1564;
+              let name="Amit";   
+
+               const c=145454;
+               const name="Kaushik";
+
+
+    diffrence between var | let | const  
+
+
+    var :var can be stored data and can be reused and reassigned data and redeclared  in varaibles.
+
+              var a=10;
+              var a=10;
+              console.log(a+a);
+
+           
+
+
+   data types in variables : 
+
+   which data is stored inside of variables there we used data types .
+
+   types of data types ....
+   2 types of data types
+
+   a) primitive data types 
+         1) number 
+         2) string 
+         3) bigInteger 
+         4) Symbol
+         5) boolean 
+         6) undefined 
+         7) null 
+
+         
+   b) non-primitive data types 
+
+         1) object 
+         2) array
+
+
+    Note : javascript used an inbuild method to check a datatype of each variables typeof().
+
+     
 
  
 

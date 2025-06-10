@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="main.js"></script>
+  </head>
+  <body>
+    <script type="text/javascript">
+      function change1() {
+        document.getElementById('image1').src = 'images/2.jpeg';
+      }
+      function change2() {
+        document.getElementById('image1').src = 'images/1.webp';
+      }
+    </script>
+    <img
+      src="images/1.webp"
+      alt="Image"
+      id="image1"
+      width="400px"
+      height="300px"
+      onmouseover="change1()"
+      onmouseout="change2()"
+    />
+  </body>
+</html>
