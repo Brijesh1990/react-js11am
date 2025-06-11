@@ -1,0 +1,53 @@
+:root {
+  --bg-info: #0041cf;
+  --bg-coral: #fe9200;
+  --bg-sky-blue: #37b7fb;
+  --bg-white: white;
+  --bg-lightgray: #c4c8cd;
+
+  --text-info: #0041cf;
+  --text-coral: #fe9200;
+  --text-sky-blue: #37b7fb;
+  --text-white: white;
+  --text-lightgray: #c4c8cd;
+}
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+  overflow-x: hidden;
+  box-sizing: border-box;
+  background-color: var(--bg-white);
+}
+#task-manager-app-header {
+  width: 100%;
+  height: 450px;
+  background: url('../images/womens2.png') no-repeat left top,
+    linear-gradient(#c4c8cd, #c4c8cd);
+  background-size: 50% 650px;
+  background-position: center;
+  background-attachment: fixed;
+  z-index: -5 !important;
+}
+.task-app {
+  width: 100%;
+  height: auto;
+  margin-left: 25% !important;
+  margin-top: 15% !important;
+}
+.container {
+  width: 40% !important;
+  margin-top: -5% !important;
+  z-index: 5 !important;
+  border-radius: 20px;
+}
+.login-btn {
+  width: 80% !important;
+  height: auto;
+  margin: auto;
+  margin-left: 10%;
+  padding: 8px;
+  background-color: var(--bg-coral) !important;
+}
