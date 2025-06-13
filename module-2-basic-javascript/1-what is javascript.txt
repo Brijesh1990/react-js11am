@@ -1,0 +1,146 @@
+what is javascript ? 
+javascript is a client side scripting language 
+javascript is used as programming language javascript manage and developed by ECM(ecma
+script organisations).
+javascript file extension .js 
+javascript is most popular client side scripting language 
+javascript provides many libraries and frameworks 
+
+ a) react js 
+ b) jquery 
+ c) angular 
+ d) Vue js 
+ e) express js 
+ f) next js  
+ g) node js     
+
+ javascript is called inside of <script> tag </script>
+ javascript is a case-senstive language
+   examples :document.getElementById()
+ javascript is used to load a dynamic content 
+ javascript is used to fast load data on broswers 
+ javascript is used to create a single web page applications(SPA)
+ javascript is used to create a calculators | form validations | right click disables | loaders app | to do app 
+ javascript is called inside of <body></body> and <head></head>
+ javascript is called <head></head> and <body></body>
+
+ How many types to call javascript ? 
+ a) <body></body>
+ b) <head></head>
+ c) external javascript (main.js)
+
+ Javascript used as programming language so it is provides some output method 
+
+ a) alert 
+ b) prompt
+ c) confirm 
+ d) console.log 
+ e) document.write 
+ f) document.getElementById()
+ g) document.getElementById().value
+ h) document.getElementById().style
+ i) document.getElementById().innerHTML
+ j) document.getElementById().src
+ k) window.print()
+ 
+
+ what is javascript operator ?
+     operator operands some actions
+     There are some types of operator ...
+
+     a) airthmatic operator 
+       examples : + , - , / , * , % etc 
+
+       
+     b) assingment operator 
+       examples : =, == , != etc 
+   
+     c) comparision operator 
+
+      examples : > , >= , <, <= , === 
+
+     d) logical operator  
+
+       examples : && , ||, ! 
+
+     e) sorthand operator or betwise operator  
+
+       examples : +=, -=, /=,%= , *= 
+
+     f) ternary operator 
+
+       examples : ?: 
+
+
+     g) string concatenations operator 
+
+          examples : + 
+
+     h) increment/decerement operator 
+
+      examples : ++ , --          
+      
+
+   what is javascript variables : 
+
+    A variables is just like container where we stored informations about data i.e called variables.
+
+
+    Note : javascript assigned three identifier for variables 
+
+              a) var 
+              b) let 
+              c) const 
+
+              var a=10;
+              var name="Brijesh";
+
+              let b=20.1564;
+              let name="Amit";   
+
+               const c=145454;
+               const name="Kaushik";
+
+
+    diffrence between var | let | const  
+
+
+    var :var can be stored data and can be reused and reassigned data and redeclared  in varaibles.
+
+              var a=10;
+              var a=10;
+              console.log(a+a);
+
+           
+
+
+   data types in variables : 
+
+   which data is stored inside of variables there we used data types .
+
+   types of data types ....
+   2 types of data types
+
+   a) primitive data types 
+         1) number 
+         2) string 
+         3) bigInteger 
+         4) Symbol
+         5) boolean 
+         6) undefined 
+         7) null 
+
+         
+   b) non-primitive data types 
+
+         1) object 
+         2) array
+
+
+    Note : javascript used an inbuild method to check a datatype of each variables typeof().
+
+     
+
+ 
+
+

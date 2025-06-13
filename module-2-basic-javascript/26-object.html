@@ -1,0 +1,30 @@
+<script>
+  //object : object is an entity that has properties and methods.
+
+  // In JavaScript, objects are a collection of key-value pairs, where keys are strings (or Symbols) and values can be any data type.
+
+  // Objects can be created using object literals, constructors, or classes.
+
+  //object stored multiple values in a single variable.
+
+  //object stored {} with property and value
+
+  let employee = {
+    name: 'Brijesh kumar pandey',
+    age: 22,
+    isStudent: true,
+    address: {
+      city: 'Varanasi',
+      state: 'Uttar Pradesh',
+    },
+    greet: function () {
+      console.log('Hello, my name is ' + this.name);
+    },
+  };
+
+  //   console.log(employee); // Output: { name: 'Brijesh kumar pandey', age: 22, isStudent: true, address: { city: 'Varanasi', state: 'Uttar Pradesh' }, greet: [Function: greet] }
+
+  console.log(employee.name); // Output: Brijesh kumar pandey
+
+  console.log(employee.address);
+</script>
