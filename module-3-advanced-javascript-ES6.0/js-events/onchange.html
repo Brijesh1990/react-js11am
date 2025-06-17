@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="main.js"></script>
+    <style>
+      .cart {
+        width: 70%;
+        height: auto;
+        margin: auto;
+        margin-top: 5%;
+      }
+    </style>
+  </head>
+  <body>
+    <script>
+      function carttotal() {
+        var p = document.getElementById('price').value;
+        var q = document.getElementById('qty').value;
+        var subtotal = p * q;
+        document.getElementById('tot').innerHTML = subtotal;
+      }
+    </script>
+    <div class="cart">
+      <h1>View Cart</h1>
+      <table
+        align="center"
+        border="0"
+        cellspacing="5"
+        cellpadding="5"
+        width="100%"
+      >
+        <tr style="background-color: black; color: white">
+          <th>Pname</th>
+          <th>Pimage</th>
+          <th>Price</th>
+          <th>Qty</th>
+          <th>Details</th>
+        </tr>
+        <tr>
+          <td>Samsung guru</td>
+          <td><img src="images/samsung.avif" width="85px" height="85px" /></td>
+          <td>
+            Rs.<input
+              type="text"
+              id="price"
+              value="1250"
+              readonly
+              style="border: none; width: 35px"
+            />-/
+          </td>
+          <td>
+            <input
+              type="number"
+              id="qty"
+              min="1"
+              max="10"
+              value="1"
+              style="width: 200px"
+              onchange="carttotal()"
+            />
+          </td>
+          <td>Good for keypad lovers</td>
+        </tr>
+        <tr>
+          <td colspan="5">
+            <h1 align="right">
+              Subtotals of Rs .<label id="tot">1250</label> -/
+            </h1>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
+</html>

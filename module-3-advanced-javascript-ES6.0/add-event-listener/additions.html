@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="main.js"></script>
+    <style>
+      #content {
+        width: 50%;
+        height: auto;
+        margin: auto;
+        margin-top: 5%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="content">
+      <p id="res"></p>
+      <button type="button" id="btn">Additions</button>
+    </div>
+
+    <script>
+      //addEventListener is used to call a events and also used callback method and used in ES6.0
+      //   var btn = document.getElementById('btn');
+      //   btn.addEventListener('click', function () {
+      //     var a = parseInt(prompt('Enter a values :'));
+      //     var b = parseInt(prompt('Enter b values :'));
+      //     var c = a + b;
+      //     document.getElementById('res').innerHTML =
+      //       'Additions of Numbers is :' + c;
+      //   });
+
+      //   var btn = document.getElementById('btn');
+      //   btn.addEventListener('mouseover', function () {
+      //     var a = parseInt(prompt('Enter a values :'));
+      //     var b = parseInt(prompt('Enter b values :'));
+      //     var c = a + b;
+      //     document.getElementById('res').innerHTML =
+      //       'Additions of Numbers is :' + c;
+      //   });
+
+      var btn = document.getElementById('btn');
+      btn.addEventListener('dblclick', function () {
+        var a = parseInt(prompt('Enter a values :'));
+        var b = parseInt(prompt('Enter b values :'));
+        var c = a + b;
+        document.getElementById('res').innerHTML =
+          'Additions of Numbers is :' + c;
+      });
+    </script>
+  </body>
+</html>
