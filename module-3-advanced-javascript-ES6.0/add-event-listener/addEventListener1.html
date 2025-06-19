@@ -1,0 +1,24 @@
+<!-- <p id="res"></p>
+<button type="button" id="btn">Additions</button>
+<script>
+  var btn = document.getElementById('btn');
+  btn.addEventListener('click', display);
+  function display() {
+    var a = parseInt(prompt('Enter a values :'));
+    var b = parseInt(prompt('Enter a values :'));
+    var c = a + b;
+    document.getElementById('res').innerHTML = 'Additions of numbers is :' + c;
+  }
+</script> -->
+
+<p id="res"></p>
+<button type="button" id="btn">Additions</button>
+<script>
+  var btn = document.getElementById('btn');
+  btn.addEventListener('click', function display() {
+    var a = parseInt(prompt('Enter a values :'));
+    var b = parseInt(prompt('Enter a values :'));
+    var c = a + b;
+    document.getElementById('res').innerHTML = 'Additions of numbers is :' + c;
+  });
+</script>

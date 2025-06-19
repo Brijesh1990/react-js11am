@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="main.js"></script>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      .app {
+        width: 1366px;
+        height: auto;
+        background-color: coral;
+        padding: 25px;
+      }
+    </style>
+  </head>
+  <body>
+    <p id="para"></p>
+    <script>
+      document.getElementById('para').innerHTML = +innerWidth;
+      document.getElementById('para').innerHTML = +innerHeight;
+    </script>
+    <div class="app"></div>
+  </body>
+</html>
