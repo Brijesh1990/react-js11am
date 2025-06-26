@@ -1,0 +1,35 @@
+<script>
+  // parent class properties access by its multiple child class so we can used there multilevel inheritance
+
+  // A => B => C => D => E => f
+
+  class Animal {
+    constructor(name, age) {
+      this.name = name;
+      this.age = age;
+    }
+  }
+  class Owner extends Animal {
+    constructor(name, age, ownername, address) {
+      super(name, age);
+      this.ownername = ownername;
+      this.address = address;
+    }
+  }
+
+  class Shopkeeper extends Owner {
+    constructor(name, age, ownername, address, shopkeepername) {
+      super(name, age, ownername, address);
+      this.shopkeepername = shopkeepername;
+    }
+  }
+
+  var obj = new Shopkeeper(
+    'Kitty-witty',
+    2,
+    'Alpesh patel',
+    '150 feet ring road rajkot',
+    'Happy dog animals shop center'
+  );
+  console.log(obj);
+</script>

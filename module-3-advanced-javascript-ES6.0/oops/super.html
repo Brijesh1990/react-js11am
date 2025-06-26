@@ -1,0 +1,27 @@
+<script>
+  // super : super is a keyword i.e used in javascript to inherit properties of parent class into child class there we used super
+  class A {
+    constructor(nm, age) {
+      this.nm = nm;
+      this.age = age;
+    }
+  }
+
+  class B extends A {
+    constructor(nm, age, dept, fee, college) {
+      super(nm, age);
+      this.dept = dept;
+      this.fee = fee;
+      this.college = college;
+    }
+  }
+
+  var obj = new B(
+    'Vijay ahir',
+    20,
+    'Frontend development',
+    68000,
+    'Atmiya university'
+  );
+  console.log(obj);
+</script>

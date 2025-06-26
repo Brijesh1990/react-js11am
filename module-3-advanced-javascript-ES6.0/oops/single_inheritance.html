@@ -1,0 +1,27 @@
+<script>
+  // parent class properties access by its one child class i.e called single inheritance
+
+  //    A => B
+
+  class Animal {
+    constructor(name, age) {
+      this.name = name;
+      this.age = age;
+    }
+  }
+  class Owner extends Animal {
+    constructor(name, age, ownername, address) {
+      super(name, age);
+      this.ownername = ownername;
+      this.address = address;
+    }
+  }
+
+  var obj = new Owner(
+    'Kitty-witty',
+    2,
+    'Alpesh patel',
+    '150 feet ring road rajkot'
+  );
+  console.log(obj);
+</script>

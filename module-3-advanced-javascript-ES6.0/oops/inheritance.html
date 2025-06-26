@@ -1,0 +1,52 @@
+<script>
+  // inheritance : inheritance is a process where one class properties used by another class i.e called inheritance
+
+  // inheritance used parent class properties by its child class i.e called inheritance
+
+  //  A => B
+
+  // inheritance used by extends keyword
+
+  //   syntax;
+  //   class A {
+  //     constructor() {
+  //       statements;
+  //     }
+  //   }
+  //   class B extends A {
+  //     constructor() {
+  //         super();
+  //       statements;
+  //     }
+  //   }
+
+  //   //   object
+
+  //   types of inheritance
+
+  //  There are three types of inheritance
+
+  // a) single inheritance  b) multilevel inheritance  c) multiple inheritance (not supportend in javascript and php and java)
+
+  class Animal {
+    constructor(name, age) {
+      this.name = name;
+      this.age = age;
+    }
+  }
+  class Owner extends Animal {
+    constructor(name, age, ownername, address) {
+      super(name, age);
+      this.ownername = ownername;
+      this.address = address;
+    }
+  }
+
+  var obj = new Owner(
+    'Kitty-witty',
+    2,
+    'Alpesh patel',
+    '150 feet ring road rajkot'
+  );
+  console.log(obj);
+</script>
