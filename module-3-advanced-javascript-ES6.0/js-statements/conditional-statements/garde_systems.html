@@ -1,0 +1,53 @@
+<script>
+  function gardeSystems() {
+    let marks = parseInt(document.getElementById('grade').value);
+    let grade;
+
+    //     if (marks >= 90) {
+    //       grade = 'A';
+    //     } else if (marks >= 80) {
+    //       grade = 'B';
+    //     } else if (marks >= 70) {
+    //       grade = 'C';
+    //     } else if (marks >= 60) {
+    //       grade = 'D';
+    //     } else if (marks >= 50) {
+    //       grade = 'E';
+    //     } else {
+    //       grade = 'F';
+    //     }
+
+    //     alert('Your grade is: ' + grade);
+    //   }
+
+    switch (true) {
+      case marks >= 90:
+        grade = 'A';
+        break;
+      case marks >= 80:
+        grade = 'B';
+        break;
+      case marks >= 70:
+        grade = 'C';
+        break;
+      case marks >= 60:
+        grade = 'D';
+        break;
+      case marks >= 50:
+        grade = 'E';
+        break;
+      default:
+        grade = 'F';
+    }
+
+    alert('Your grade is: ' + grade);
+  }
+</script>
+
+<!--     // garde_systems : garde systems is used to check the garde of a student based on the marks obtained
+ -->
+<form>
+  <input type="text" id="grade" />
+  <br /><br />
+  <button type="button" onclick="gardeSystems()">Check Grade</button>
+</form>
