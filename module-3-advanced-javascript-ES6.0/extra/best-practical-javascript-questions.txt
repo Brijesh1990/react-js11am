@@ -1,0 +1,103 @@
+Here are 100 practical JavaScript questions that cover core concepts, ES6+, DOM, and real-world scenarios:
+
+How do you declare a variable in JavaScript?
+What is the difference between let, const, and var?
+How do you create a function in JavaScript?
+What is an arrow function?
+How do you write an immediately invoked function expression (IIFE)?
+How do you check the type of a variable?
+How do you convert a string to a number?
+How do you convert a number to a string?
+How do you check if a value is an array?
+How do you loop through an array?
+How do you loop through an object’s properties?
+How do you add an element to an array?
+How do you remove the last element from an array?
+How do you remove the first element from an array?
+How do you find the index of an element in an array?
+How do you merge two arrays?
+How do you copy an array?
+How do you sort an array of numbers?
+How do you filter an array?
+How do you map an array to a new array?
+How do you reduce an array to a single value?
+How do you find an object in an array by property?
+How do you check if an array includes a value?
+How do you reverse an array?
+How do you flatten a nested array?
+How do you remove duplicates from an array?
+How do you destructure an array?
+How do you destructure an object?
+How do you use the spread operator?
+How do you use the rest operator?
+How do you clone an object?
+How do you merge two objects?
+How do you check if an object has a property?
+How do you get all keys of an object?
+How do you get all values of an object?
+How do you freeze an object?
+How do you seal an object?
+How do you create a class in JavaScript?
+How do you create an object from a class?
+How do you extend a class?
+How do you use static methods in a class?
+How do you use getters and setters in a class?
+How do you create a promise?
+How do you use async/await?
+How do you handle errors in promises?
+How do you fetch data from an API?
+How do you parse JSON data?
+How do you stringify an object to JSON?
+How do you set a timeout in JavaScript?
+How do you set an interval in JavaScript?
+How do you clear a timeout or interval?
+How do you select an element by ID in the DOM?
+How do you select elements by class in the DOM?
+How do you select elements by tag in the DOM?
+How do you change the text of an element?
+How do you change the HTML of an element?
+How do you change the style of an element?
+How do you add a class to an element?
+How do you remove a class from an element?
+How do you toggle a class on an element?
+How do you create a new element in the DOM?
+How do you append a child element?
+How do you remove an element from the DOM?
+How do you handle a click event?
+How do you handle a form submit event?
+How do you prevent the default action of an event?
+How do you stop event propagation?
+How do you delegate events?
+How do you get the value of an input field?
+How do you set the value of an input field?
+How do you validate a form in JavaScript?
+How do you store data in localStorage?
+How do you retrieve data from localStorage?
+How do you remove data from localStorage?
+How do you store data in sessionStorage?
+How do you use cookies in JavaScript?
+How do you detect the user’s browser?
+How do you detect the user’s device type?
+How do you get the current date and time?
+How do you format a date in JavaScript?
+How do you generate a random number?
+How do you shuffle an array?
+How do you debounce a function?
+How do you throttle a function?
+How do you deep clone an object?
+How do you check if a variable is null or undefined?
+How do you check if a string contains a substring?
+How do you replace part of a string?
+How do you split a string into an array?
+How do you join an array into a string?
+How do you capitalize the first letter of a string?
+How do you trim whitespace from a string?
+How do you use template literals?
+How do you use default parameters in a function?
+How do you use destructuring in function parameters?
+How do you import and export modules?
+How do you use arrow functions with this?
+How do you use the bind, call, and apply methods?
+How do you handle errors with try/catch?
+How do you write and use a custom JavaScript utility function?
+Let me know if you want answers or code examples for any of these questions!

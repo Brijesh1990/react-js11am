@@ -1,0 +1,103 @@
+Here are 100 practical Bootstrap questions covering Bootstrap 4 and 5 features:
+
+How do you include Bootstrap in your project?
+How do you use Bootstrap via CDN?
+How do you install Bootstrap using npm?
+How do you create a responsive navbar?
+How do you make a navbar fixed to the top?
+How do you add a brand logo to the navbar?
+How do you create a collapsible navbar?
+How do you add a dropdown menu in the navbar?
+How do you align navbar items to the right?
+How do you use Bootstrap’s grid system?
+How do you create a two-column layout?
+How do you create a three-column layout?
+How do you make columns stack on small screens?
+How do you offset columns in Bootstrap?
+How do you nest rows and columns?
+How do you use Bootstrap’s container classes?
+How do you use .container-fluid?
+How do you use Bootstrap’s spacing utilities?
+How do you add margin and padding using Bootstrap classes?
+How do you use Bootstrap’s display utilities?
+How do you hide elements on specific screen sizes?
+How do you use Bootstrap’s text alignment classes?
+How do you use Bootstrap’s text color utilities?
+How do you use Bootstrap’s background color utilities?
+How do you use Bootstrap’s border utilities?
+How do you create a Bootstrap button?
+How do you use different button styles?
+How do you make a button block-level?
+How do you create a button group?
+How do you create a button toolbar?
+How do you add icons to buttons?
+How do you create a Bootstrap card?
+How do you add an image to a card?
+How do you add a card header and footer?
+How do you create a card group?
+How do you create a card deck?
+How do you create a card with a list group?
+How do you create a Bootstrap alert?
+How do you make alerts dismissible?
+How do you use different alert colors?
+How do you create a Bootstrap badge?
+How do you use badges in buttons?
+How do you create a Bootstrap breadcrumb?
+How do you create a Bootstrap pagination?
+How do you create a Bootstrap progress bar?
+How do you animate a progress bar?
+How do you create a Bootstrap modal?
+How do you open and close a modal with JavaScript?
+How do you create a modal with a form?
+How do you create a Bootstrap tooltip?
+How do you create a Bootstrap popover?
+How do you enable tooltips and popovers with JavaScript?
+How do you create a Bootstrap carousel?
+How do you add captions to carousel slides?
+How do you add controls to a carousel?
+How do you create a Bootstrap collapse component?
+How do you create an accordion using collapse?
+How do you create a Bootstrap dropdown?
+How do you create a split button dropdown?
+How do you create a Bootstrap form?
+How do you use form groups?
+How do you use form rows and columns?
+How do you create inline forms?
+How do you use form validation classes?
+How do you create custom checkboxes and radios?
+How do you create a custom select menu?
+How do you use input groups?
+How do you add buttons or text to input groups?
+How do you use floating labels?
+How do you use Bootstrap’s grid in forms?
+How do you create a responsive table?
+How do you add table stripes, borders, and hover effects?
+How do you make a table dark or light themed?
+How do you use contextual table classes?
+How do you use Bootstrap’s image classes?
+How do you make images responsive?
+How do you create rounded or circle images?
+How do you use Bootstrap’s utility classes for sizing?
+How do you use vertical and horizontal alignment utilities?
+How do you use Bootstrap’s flex utilities?
+How do you use Bootstrap’s order utilities?
+How do you use Bootstrap’s float utilities?
+How do you use Bootstrap’s shadow utilities?
+How do you use Bootstrap’s position utilities?
+How do you use Bootstrap’s overflow utilities?
+How do you use Bootstrap’s visually-hidden class?
+How do you use Bootstrap’s ratio utility for responsive embeds?
+How do you use Bootstrap’s stack utility?
+How do you use Bootstrap’s placeholders?
+How do you use Bootstrap’s offcanvas component?
+How do you use Bootstrap’s toast component?
+How do you use Bootstrap’s spinner component?
+How do you use Bootstrap’s close button?
+How do you use Bootstrap’s sticky-top utility?
+How do you use Bootstrap’s fixed-bottom utility?
+How do you use Bootstrap’s scrollspy?
+How do you use Bootstrap’s list group component?
+How do you use Bootstrap’s horizontal list group?
+How do you use Bootstrap’s contextual list group items?
+How do you customize Bootstrap using Sass variables?
+Let me know if you want answers or code examples for any of these questions!
