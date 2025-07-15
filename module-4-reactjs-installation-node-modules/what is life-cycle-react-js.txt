@@ -1,0 +1,6 @@
+ react js used life cycle to load content 
+
+   a) initialization 
+   b) mounting 
+   c) updating 
+   d) unmounting

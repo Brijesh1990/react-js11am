@@ -1,0 +1,15 @@
+  a) npm create-react-app appname 
+  b) cd appname 
+  c) npm start
+  d) localhost://3000
+
+  http://localhost:3000/
+
+  How to change react js default server PORT 
+  
+  create a new file in main directory of react js app is .ENV and write a code 
+
+    PORT=8000
+
+  http://localhost:8000/  
+

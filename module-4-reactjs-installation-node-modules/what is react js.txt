@@ -1,0 +1,54 @@
+what is react js ? 
+  react js a a library of javascript 
+  react js provides a single page application(SPA)
+  react js used re-usables components
+  react js is best for creating any website UI.
+  react js manage and developed by facebook engineer
+  react js is most popular frontend framework or libraries of javascript.
+  react js is used jsx (javascript  xml) and jsx is used to access html elements inside of react js. 
+
+  react js create small peace of file i.e saved with .js or .jsx i.e called components. 
+
+  react js is fast load content 
+  
+  react js is seo friendly
+  
+  react js used life cycle to load content 
+
+   a) initialization 
+   b) mounting 
+   c) updating 
+   d) unmounting
+
+   react js is used a libraies or packages 
+  
+   react js provides fragments to access multiple html elements in jsx.
+
+   exa: <> </>
+         or 
+         <React.Fragment></React.Fragment>
+         or 
+         <div></div>
+
+    react js provides every tags of jsx is closed or paired.
+
+    react js is interprete based language i.e used to check programme execution step by step and convert any high level language into binary level language 
+
+
+what is node_module in react js ?
+
+   react js install via node modules 
+   
+   node_modules is used to  create react app and install all needed libraies and packages
+
+   install node js 
+   check node js version  
+      npm -v
+   check npm version 
+      npm -v
+   check npx version
+      npx -v
+
+
+
+

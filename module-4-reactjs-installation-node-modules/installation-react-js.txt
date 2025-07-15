@@ -1,0 +1,21 @@
+ how to create a app inside of react js using npx 
+
+  a) npx create-react-app appname 
+  b) cd appname 
+  c) npm start
+  d) localhost://3000
+
+
+
+  
+how to create a app inside of react js using npm 
+
+  a) npm create-react-app appname 
+  b) cd appname 
+  c) npm start
+  d) localhost://3000
+
+  http://localhost:3000/
+
+
+  Note : react appname is always create via small case 

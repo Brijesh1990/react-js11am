@@ -1,0 +1,16 @@
+what is npm ?
+ npm stands for node package manager 
+ npm is an dependency manager
+ npm is used to install all libraies or packages inside of react js.
+ npm is slower than npx 
+ ex: npm install 
+     npm update 
+     npm uninstall
+
+
+how to c reate a app inside of react js using npm 
+
+  a) npm create-react-app appname 
+  b) cd appname 
+  c) npm start
+  d) localhost://3000

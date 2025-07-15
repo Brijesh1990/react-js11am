@@ -1,0 +1,10 @@
+what is npm ?
+ npx stands for node package executables 
+ npx is used to create an app inside of react js 
+ npx is faster than npm 
+ ex: how to c reate a app inside of react js using npx 
+
+  a) npx create-react-app appname 
+  b) cd appname 
+  c) npm start
+  d) localhost://3000
