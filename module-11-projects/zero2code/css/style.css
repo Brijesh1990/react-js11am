@@ -1,0 +1,152 @@
+/* reference website is https://speedupinfotech.com/ */
+:root {
+  --primary-300: #8a9fbc;
+  --primary-400: #59769e;
+  --primary-500: #284d80;
+  --primary-600: #254675;
+  --primary-700: #213f69;
+  --primary-800: #1e385e;
+  --primary-900: #1a3152;
+  --success-100: #f4fde1;
+  --success-200: #e8fbc4;
+  --success-300: #d4f3a3;
+  --success-400: #bde788;
+  --success-500: #9ed762;
+  --success-600: #7cb847;
+  --success-700: #5d9a31;
+  --success-800: #417c1f;
+  --success-900: #2d6712;
+  --secondary-100: #dafaeb;
+  --secondary-200: #b6f6de;
+  --secondary-300: #8ce6cd;
+  --secondary-400: #68cebb;
+  --secondary-500: #3caea3;
+  --secondary-600: #2b9595;
+  --secondary-700: #1e757d;
+  --secondary-800: #135664;
+  --secondary-900: #0b4053;
+  --accent-100: #fef5d7;
+  --accent-200: #fee9b0;
+  --accent-300: #fdd989;
+  --accent-400: #fcc96b;
+  --accent-500: #fbb03b;
+  --accent-600: #d78d2b;
+  --accent-700: #b46d1d;
+  --accent-800: #915012;
+  --accent-900: #783c0b;
+  --danger-100: #fbd2c8;
+  --danger-200: #f79e94;
+  --danger-300: #e75d5c;
+  --danger-400: #cf3341;
+  --danger-500: #b00020;
+  --danger-600: #970029;
+  --danger-700: #7e002e;
+  --danger-800: #66002f;
+  --danger-900: #54002f;
+  --basic-100: #ffffff;
+  --basic-200: #f7f9fc;
+  --basic-300: #edf1f7;
+  --basic-400: #e4e9f2;
+  --basic-500: #c5cee0;
+  --basic-600: #8f9bb3;
+  --basic-700: #2e3a59;
+  --basic-800: #222b45;
+  --basic-900: #1a2138;
+  --basic-1000: #151a30;
+  --basic-1100: #101426;
+  --on-primary-100: var(--basic-1000);
+  --on-primary-200: var(--basic-1000);
+  --on-primary-300: var(--basic-1000);
+  --on-primary-400: var(--basic-200);
+  --on-primary-500: var(--basic-200);
+  --on-primary-600: var(--basic-200);
+  --on-primary-700: var(--basic-200);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  overflow-x: hidden !important;
+  background-color: var(--primary-400);
+}
+#zero2code-header {
+  width: 100%;
+  height: auto;
+  background-color: var(--primary-900);
+  padding: 10px;
+}
+.navbar-link {
+  margin: 0;
+  padding: 0;
+  margin-left: 5%;
+}
+.navbar-link li {
+  text-decoration: none;
+  list-style-type: none;
+  padding: 0px 15px;
+  display: inline-block;
+  justify-content: center;
+}
+.navbar-link a {
+  text-decoration: none;
+  list-style-type: none;
+  color: black;
+  font-size: 17px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.enquiry-us {
+  text-transform: capitalize !important;
+}
+.banner-scroll {
+  width: 90%;
+  height: auto;
+  margin: auto !important;
+  padding: !important;
+}
+.banner-scroll img {
+  width: 33%;
+  height: 250px;
+  margin: 10px;
+  border-radius: 20px;
+}
+#zero2code-banner {
+  width: 100%;
+  height: auto;
+}
+.banner-txt h1 {
+  font-size: 50px !important;
+}
+.bi-mortarboard,
+.bi-inbox,
+.bi-geo-alt {
+  font-size: 85px !important;
+  line-height: 0.2;
+}
+#zero2code-content {
+  width: 100%;
+  height: auto;
+}
+#zero2code-footer {
+  width: 100%;
+  height: auto;
+}
+
+/* mobile */
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+}
+
+/*tablet */
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+}
+
+/* Laptop */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+}
+
+/* desktop & large */
+@media only screen and (min-width: 1025px) and (max-width: 1440px) {
+}
