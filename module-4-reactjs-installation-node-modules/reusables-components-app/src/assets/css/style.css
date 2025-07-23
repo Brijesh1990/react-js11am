@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: auto;
+  overflow-x: hidden;
+  box-sizing: border-box;
+  background: linear-gradient(rgba(0, 0, 100, 0.5), rgba(0, 0, 255, 0.6)),
+    url('../images/bg.jpg') no-repeat;
+  background-size: cover;
+  background-position: center;
+  font-size: 25px;
+  color: white !important;
+  background-attachment: fixed !important;
+}
+.box1 {
+  width: 50%;
+  height: auto;
+  margin: auto;
+  margin-top: 10%;
+  color: white;
+}
+.box1 h1 {
+  font-size: 45px;
+  font-weight: 600;
+}
+.arrow {
+  font-size: 45px !important;
+  animation: bounce infinite 5s;
+}
+hr {
+  border: solid 1px white;
+}
+.parent {
+  width: 50%;
+  height: auto;
+  position: relative;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+.box2,
+.box3 {
+  width: 28%;
+  height: auto;
+  padding: 45px;
+  background-color: black;
+  border: solid 12px white;
+  margin-top: 15% !important;
+  margin: 10px;
+}
