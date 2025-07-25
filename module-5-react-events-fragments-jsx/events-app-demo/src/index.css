@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  box-sizing: border-box;
+  background-color: lightskyblue;
+}
+.calc-app {
+  width: 50%;
+  height: auto;
+  margin: auto;
+  padding: 15px 20px;
+  background-color: white;
+  animation: bounce 5s alternate;
+  margin-top: 15%;
+}
+.calc-app button {
+  width: 300px;
+  height: auto;
+  margin: auto;
+  background-color: black;
+  color: white;
+  padding: 8px;
+  font-size: 18px;
+  margin-left: 25%;
+  margin: 18px;
+}
+.calc-app h1 {
+  text-align: center;
+}
