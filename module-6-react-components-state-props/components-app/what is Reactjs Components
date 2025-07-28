@@ -1,0 +1,54 @@
+what is React js Components ?
+React js components is a small peace of file that can be save in React js with .js or .jsx i.e called components.
+React js components is re-usables  
+ Components is two types in react js
+
+a) functional components or function based components
+b) class based components
+
+a) function based components :
+
+          A function based components is max used inside of React js
+          A function based components are retun a single statements or multiples statements there we used fragments.
+
+
+          A function based components syntax :
+
+           function Display()
+           {
+
+            return(
+                <><h1>Hi Brijesh</h1><>
+            )
+           }
+
+           export default Display;
+
+           Note : function based components is max used
+                  using react js 18 or 19 version hooks is supported in 18 and 19 of react js version only used function based components.
+
+
+       b) class based components : A class based components is also re-usables
+
+                A class based components is support oops
+
+                A class based components is no more support hooks concepts.
+
+       Note : hooks concepts is no more support in class based components
+
+        syntax :
+         import React,{Component} from 'react'
+         class Employee extends React.Component
+         {
+            render()
+            {
+                return(
+                    <><h1>Hi class based components</h1></>
+                )
+            }
+
+         }
+
+         export default Employee
+
+

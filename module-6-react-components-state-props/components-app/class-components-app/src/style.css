@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background-color: lightgray;
+}
+.app {
+  width: 70%;
+  height: auto;
+  margin: auto;
+  margin-top: 10%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.box {
+  width: 30%;
+  height: auto;
+  margin: 5px;
+  padding: 10px;
+  font-size: 18px;
+  background-color: white;
+}

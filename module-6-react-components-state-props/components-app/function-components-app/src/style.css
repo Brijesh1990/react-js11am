@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  box-sizing: border-box;
+  background-color: gray;
+}
+.app {
+  width: 80%;
+  height: auto;
+  margin: auto;
+  margin-top: 5%;
+  background-color: white;
+  padding: 25px;
+  margin: 5px;
+  margin-top: 5%;
+  margin-left: 10%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.box {
+  width: 30%;
+  height: auto;
+  margin: auto;
+  padding: 10px;
+  margin: 5px;
+  box-shadow: 2px 4px 3px 2px;
+}
