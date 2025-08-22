@@ -1,0 +1,41 @@
+body 
+{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    box-sizing: border-box;
+    background-color: lightgray;
+}
+.app
+{
+   width: 50%;
+   height: auto;
+   margin: auto;
+   display: flex;
+   flex-direction: row !important;
+   margin-top: 15%;
+}
+.box1,.box2
+{
+
+width: 50%;
+height: auto;
+padding: 10px;
+box-shadow: 2px 2px 1px black !important;    
+}
+
+.myapp
+{
+    width: 90%;
+    height: auto;
+    margin: auto;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-top: 15%;
+}
+.box1,.box2,.box3,.box4
+{
+    width: 90%;
+    height: auto;
+    box-shadow: 2px 2px 1px black !important; 
+}

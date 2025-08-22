@@ -1,0 +1,29 @@
+$bgsuccess:green;
+$textsuccess:green;
+$bgdanger:coral;
+$bginfo:blue;
+$margin:auto;
+$padding:auto;
+$display:flex;
+$flex-template:row;
+$bgwhite:white;
+$textwhite:white;
+$container:80%;
+$container-fluid:100%;
+body 
+{
+    margin: $margin;
+    padding: $padding;
+    background-color: $bgdanger;
+}
+
+.app 
+{
+    width: $container !important;
+    background-color: $bgwhite !important;
+    margin: auto;
+    padding: 25px;
+    margin-top: 15%;
+}
+
+
