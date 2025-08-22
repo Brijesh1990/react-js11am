@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+/* Food delivery Web app user panel css*/
+
+/* Food delivery Web app admin panel css */
+.sidebar-links
+{
+width: 100%;
+height: auto;  
+}
+.sidebar-links li 
+{
+display: block;
+text-decoration: none;
+list-style-type: none;  
+padding: 10px 1px;
+}
+.sidebar-links a 
+{
+color: white;
+font-size: 18px;
+
+}
