@@ -1,0 +1,49 @@
+// scss properties stored in variables 
+$bg-light:lightgray;
+$bg-coral:rgb(210, 144, 120);
+$bg-success:green;
+$bg-info:rgb(7, 36, 54);
+$bg-white:white;
+$bg-dark:black;
+$text-light:lightgray;
+$text-coral:coral;
+$text-success:green;
+$text-info:lightskyblue;
+$text-dark:black;
+$text-white:white;
+
+$margin-auto:auto;
+$padding-auto:auto;
+$min-width:80%;
+$min-height:80%;
+$max-width:100%;
+$max-height:100%;
+body 
+{
+background-color: $bg-coral;
+}
+.app
+{
+width: $min-width;
+height: $min-height;
+margin: auto;
+padding: 25px;   
+}
+.parent 
+{
+width: $min-width;
+height: $min-height;
+
+display: flex;
+flex-wrap: wrap;
+}
+.child
+{
+width: 30%;
+height: auto;
+margin: 5px;
+padding: 5px;
+box-shadow: 2px 2px 2px black;
+background-color: $bg-info;
+color: $text-white;
+}
