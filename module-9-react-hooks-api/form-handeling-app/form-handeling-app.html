@@ -1,0 +1,88 @@
+<!-- 
+form handeling app is used to handel fata from form
+form handeling is used to get input data from users i.e called form handeling 
+
+There are 2 types of form handeling components  in react js 
+
+ a) controlled components
+
+    controlled components direct called or render data using useState 
+    and used function based components and useState() to stored current data of object is called controlled components.
+
+    examples :import {react,useState} from 'react'
+              function App()
+              {
+                //destructured data
+                const[value, setValue]=useState("");
+                const[result,setResult]=useState("");
+
+                //create a form handeling function 
+                const addFormData=(e)=>{
+                  e.preventDefault(); //prevent refresh data
+                  setResult("The data is :"+result);                    
+                }
+                //create a onchangeEvent
+                const onChangeData=(e)=>{
+                    
+                  setValue(e.target.value);
+
+                }
+
+
+                return (
+                <>
+                
+                  <form onsubmit={addFormData}>
+                  <input type="text" value={value} placeholder="Name" onchange={onChangeData} />
+                  <br/><br/>
+                  <input type="submit" value="Submit" />
+                  </form>
+                
+                </>)
+              
+              }  
+
+ b) uncontrolled components
+
+    uncontrolled components direct called form input data using DOM.
+    uncontrolled components is handel userInput data using DOM and stored data via useRef.
+
+    examples :import {react,useRef} from 'react'
+              function App()
+              {
+
+               //stored input data using useRef
+               const name=useRef("");
+               //create a formHandeling function 
+               const addFormData=(e)=>{
+                   e.preventDefault();
+                   var insert={
+                   
+                     name:name.current.value
+                   
+                   }
+
+                   //alert('The name is :',insert);
+                   console.log(insert);
+
+                 
+               } 
+                
+                return (
+                <>
+                
+                  <form onsubmit={addFormData}>
+                  <input type="text" ref={name}  placeholder="Name"  />
+                  <br/><br/>
+                  <input type="submit" value="Submit" />
+                  </form>
+                
+                </>)
+              
+              }  
+
+
+
+
+
+-->
