@@ -1,0 +1,220 @@
+{
+    "category":[
+        {
+            "id":1,
+            "categoryname":"Mobile & Tablets"
+        },
+        {
+            "id":2,
+            "categoryname":"Fashion"
+        },
+
+        {
+            "id":3,
+            "categoryname":"Electronics"
+        },
+        {
+            "id":4,
+            "categoryname":"TV & Appliances"
+        }
+        
+    ],
+
+    "subcategory":[
+          {
+            "id":1,
+            "category":"Mobile & Tablets",
+            "subcategoryname":"Samsung"
+        },
+         {
+            "id":2,
+            "category":"Fashion",
+            "subcategoryname":"Mens Top wear"
+        },
+        {
+            "id":3,
+            "category":"Electronics",
+            "subcategoryname":"Refrigerator"
+        }
+        
+    ],
+
+    "addproducts":[
+          {
+            "id":1,
+            "category":"Electronics",
+            "subcategory":"Refrigerator",
+            "productname":"LG double door refrigerator",
+            "photo":"https://dynamicdistributors.in/wp-content/uploads/2024/05/61aJSMSmeVL._SL1500_.jpg",
+            "qty":1,
+            "oldprice":55500,
+            "offerprice":48500,
+            "descriptions":"You can enjoy chilled drinks and popsicles during summer by keeping them stocked up in the LG 242 L Frost-free Double-door Refrigerator. Its Smart Inverter Compressor is designed to deliver energy-efficient performance, thus keeping a check on your electricity bills. Also, this refrigerator’s Door Cooling+ feature keeps the food items fresh and drinks chilled while rendering uniform rapid cooling. Moreover, its Multi Air Flow system controls the temperature levels to keep the contents fresh."
+        },
+
+         {
+            "id":1,
+            "category":"Electronics",
+            "subcategory":"Refrigerator",
+            "productname":"LG double door refrigerator",
+            "photo":"https://dynamicdistributors.in/wp-content/uploads/2024/05/61aJSMSmeVL._SL1500_.jpg",
+            "qty":1,
+            "oldprice":55500,
+            "offerprice":48500,
+            "descriptions":"You can enjoy chilled drinks and popsicles during summer by keeping them stocked up in the LG 242 L Frost-free Double-door Refrigerator. Its Smart Inverter Compressor is designed to deliver energy-efficient performance, thus keeping a check on your electricity bills. Also, this refrigerator’s Door Cooling+ feature keeps the food items fresh and drinks chilled while rendering uniform rapid cooling. Moreover, its Multi Air Flow system controls the temperature levels to keep the contents fresh."
+        },
+
+
+         {
+            "id":1,
+            "category":"Electronics",
+            "subcategory":"Refrigerator",
+            "productname":"LG double door refrigerator",
+            "photo":"https://dynamicdistributors.in/wp-content/uploads/2024/05/61aJSMSmeVL._SL1500_.jpg",
+            "qty":1,
+            "oldprice":55500,
+            "offerprice":48500,
+            "descriptions":"You can enjoy chilled drinks and popsicles during summer by keeping them stocked up in the LG 242 L Frost-free Double-door Refrigerator. Its Smart Inverter Compressor is designed to deliver energy-efficient performance, thus keeping a check on your electricity bills. Also, this refrigerator’s Door Cooling+ feature keeps the food items fresh and drinks chilled while rendering uniform rapid cooling. Moreover, its Multi Air Flow system controls the temperature levels to keep the contents fresh."
+        },
+
+         {
+            "id":1,
+            "category":"Electronics",
+            "subcategory":"Refrigerator",
+            "productname":"LG double door refrigerator",
+            "photo":"https://dynamicdistributors.in/wp-content/uploads/2024/05/61aJSMSmeVL._SL1500_.jpg",
+            "qty":1,
+            "oldprice":55500,
+            "offerprice":48500,
+            "descriptions":"You can enjoy chilled drinks and popsicles during summer by keeping them stocked up in the LG 242 L Frost-free Double-door Refrigerator. Its Smart Inverter Compressor is designed to deliver energy-efficient performance, thus keeping a check on your electricity bills. Also, this refrigerator’s Door Cooling+ feature keeps the food items fresh and drinks chilled while rendering uniform rapid cooling. Moreover, its Multi Air Flow system controls the temperature levels to keep the contents fresh."
+        },
+
+         {
+            "id":1,
+            "category":"Electronics",
+            "subcategory":"Refrigerator",
+            "productname":"LG double door refrigerator",
+            "photo":"https://dynamicdistributors.in/wp-content/uploads/2024/05/61aJSMSmeVL._SL1500_.jpg",
+            "qty":1,
+            "oldprice":55500,
+            "offerprice":48500,
+            "descriptions":"You can enjoy chilled drinks and popsicles during summer by keeping them stocked up in the LG 242 L Frost-free Double-door Refrigerator. Its Smart Inverter Compressor is designed to deliver energy-efficient performance, thus keeping a check on your electricity bills. Also, this refrigerator’s Door Cooling+ feature keeps the food items fresh and drinks chilled while rendering uniform rapid cooling. Moreover, its Multi Air Flow system controls the temperature levels to keep the contents fresh."
+        },
+
+         {
+            "id":1,
+            "category":"Electronics",
+            "subcategory":"Refrigerator",
+            "productname":"LG double door refrigerator",
+            "photo":"https://dynamicdistributors.in/wp-content/uploads/2024/05/61aJSMSmeVL._SL1500_.jpg",
+            "qty":1,
+            "oldprice":55500,
+            "offerprice":48500,
+            "descriptions":"You can enjoy chilled drinks and popsicles during summer by keeping them stocked up in the LG 242 L Frost-free Double-door Refrigerator. Its Smart Inverter Compressor is designed to deliver energy-efficient performance, thus keeping a check on your electricity bills. Also, this refrigerator’s Door Cooling+ feature keeps the food items fresh and drinks chilled while rendering uniform rapid cooling. Moreover, its Multi Air Flow system controls the temperature levels to keep the contents fresh."
+        },
+
+         {
+            "id":1,
+            "category":"Electronics",
+            "subcategory":"Refrigerator",
+            "productname":"LG double door refrigerator",
+            "photo":"https://dynamicdistributors.in/wp-content/uploads/2024/05/61aJSMSmeVL._SL1500_.jpg",
+            "qty":1,
+            "oldprice":55500,
+            "offerprice":48500,
+            "descriptions":"You can enjoy chilled drinks and popsicles during summer by keeping them stocked up in the LG 242 L Frost-free Double-door Refrigerator. Its Smart Inverter Compressor is designed to deliver energy-efficient performance, thus keeping a check on your electricity bills. Also, this refrigerator’s Door Cooling+ feature keeps the food items fresh and drinks chilled while rendering uniform rapid cooling. Moreover, its Multi Air Flow system controls the temperature levels to keep the contents fresh."
+        },
+
+         {
+            "id":1,
+            "category":"Electronics",
+            "subcategory":"Refrigerator",
+            "productname":"LG double door refrigerator",
+            "photo":"https://dynamicdistributors.in/wp-content/uploads/2024/05/61aJSMSmeVL._SL1500_.jpg",
+            "qty":1,
+            "oldprice":55500,
+            "offerprice":48500,
+            "descriptions":"You can enjoy chilled drinks and popsicles during summer by keeping them stocked up in the LG 242 L Frost-free Double-door Refrigerator. Its Smart Inverter Compressor is designed to deliver energy-efficient performance, thus keeping a check on your electricity bills. Also, this refrigerator’s Door Cooling+ feature keeps the food items fresh and drinks chilled while rendering uniform rapid cooling. Moreover, its Multi Air Flow system controls the temperature levels to keep the contents fresh."
+        },
+
+         {
+            "id":1,
+            "category":"Electronics",
+            "subcategory":"Refrigerator",
+            "productname":"LG double door refrigerator",
+            "photo":"https://dynamicdistributors.in/wp-content/uploads/2024/05/61aJSMSmeVL._SL1500_.jpg",
+            "qty":1,
+            "oldprice":55500,
+            "offerprice":48500,
+            "descriptions":"You can enjoy chilled drinks and popsicles during summer by keeping them stocked up in the LG 242 L Frost-free Double-door Refrigerator. Its Smart Inverter Compressor is designed to deliver energy-efficient performance, thus keeping a check on your electricity bills. Also, this refrigerator’s Door Cooling+ feature keeps the food items fresh and drinks chilled while rendering uniform rapid cooling. Moreover, its Multi Air Flow system controls the temperature levels to keep the contents fresh."
+        },
+
+         {
+            "id":1,
+            "category":"Electronics",
+            "subcategory":"Refrigerator",
+            "productname":"LG double door refrigerator",
+            "photo":"https://dynamicdistributors.in/wp-content/uploads/2024/05/61aJSMSmeVL._SL1500_.jpg",
+            "qty":1,
+            "oldprice":55500,
+            "offerprice":48500,
+            "descriptions":"You can enjoy chilled drinks and popsicles during summer by keeping them stocked up in the LG 242 L Frost-free Double-door Refrigerator. Its Smart Inverter Compressor is designed to deliver energy-efficient performance, thus keeping a check on your electricity bills. Also, this refrigerator’s Door Cooling+ feature keeps the food items fresh and drinks chilled while rendering uniform rapid cooling. Moreover, its Multi Air Flow system controls the temperature levels to keep the contents fresh."
+        },
+
+         {
+            "id":1,
+            "category":"Electronics",
+            "subcategory":"Refrigerator",
+            "productname":"LG double door refrigerator",
+            "photo":"https://dynamicdistributors.in/wp-content/uploads/2024/05/61aJSMSmeVL._SL1500_.jpg",
+            "qty":1,
+            "oldprice":55500,
+            "offerprice":48500,
+            "descriptions":"You can enjoy chilled drinks and popsicles during summer by keeping them stocked up in the LG 242 L Frost-free Double-door Refrigerator. Its Smart Inverter Compressor is designed to deliver energy-efficient performance, thus keeping a check on your electricity bills. Also, this refrigerator’s Door Cooling+ feature keeps the food items fresh and drinks chilled while rendering uniform rapid cooling. Moreover, its Multi Air Flow system controls the temperature levels to keep the contents fresh."
+        }
+    ],
+
+    "cart":[
+        {
+
+        }
+    ],
+
+    "orders":[
+        {
+
+        }
+    ],
+
+    "bills":[
+        {
+
+        }
+    ],
+
+    "reviews":[
+        {
+
+        }
+    ],
+
+    "contact":[
+        {
+            "id":1,
+            "name":"brijesh",
+            "email":"bkpandey@gmail.com",
+            "mobile":9998003879,
+            "subject":"return products",
+            "comment":"hey please give me a customer care number please"
+
+        }
+    ],
+
+    "feedback":[
+        {
+
+        }
+    ]
+
+
+}

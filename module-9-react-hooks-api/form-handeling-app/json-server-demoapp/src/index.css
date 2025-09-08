@@ -1,0 +1,21 @@
+body 
+{
+margin: 0;
+padding: 0;  
+}
+.app
+{
+width: 80%;
+height: auto;
+display: flex;
+flex-wrap: wrap;
+
+}
+.child 
+{
+width: 25%;
+height: auto;
+margin: 15px;
+margin-left: 5%;  
+text-align: center;
+}
