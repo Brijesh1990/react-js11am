@@ -1,0 +1,56 @@
+{
+  "contactus": [],
+  "addemployee": [
+    {
+      "id": "cb5a",
+      "name": "bhoomi",
+      "email": "bhoomi@gmail.com",
+      "password": "123456",
+      "phone": "9998003879",
+      "age": "25",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSAwtmhR_SC4mux-dZErc0HQmQExycuiTZ4w&s",
+      "address": "150 feet ring road rajkot"
+    },
+    {
+      "id": "2142",
+      "name": "avtar",
+      "email": "avtar@gmail.com",
+      "password": "123456789",
+      "phone": "8142212121",
+      "age": "27",
+      "photo": "https://img.freepik.com/free-vector/smiling-young-man-illustration_1308-174669.jpg",
+      "address": "ahemdabad"
+    },
+    {
+      "id": "c8d7",
+      "name": "raj",
+      "email": "raj007@gmail.com",
+      "password": "123456",
+      "phone": "812122121",
+      "age": "26",
+      "photo": "https://www.shutterstock.com/image-vector/abstract-boy-avtar-character-fiction-260nw-2168632503.jpg",
+      "address": "badodra"
+    },
+    {
+      "id": "1e81",
+      "name": "amit",
+      "email": "amit007@gmail.com",
+      "password": "1234",
+      "phone": "84121212121",
+      "age": "26",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4YreOWfDX3kK-QLAbAL4ufCPc84ol2MA8Xg&s",
+      "address": "150 ring road rajkot"
+    },
+    {
+      "id": "e5bf",
+      "name": "Brijesh",
+      "email": "bkpandey.pandey@gmail.com",
+      "password": "123456",
+      "phone": "9998003879",
+      "age": "34",
+      "photo": "https://thumbs.dreamstime.com/b/cheerful-d-boy-backpack-his-back-leaves-school-jumps-across-water-to-avtar-schoolboy-329290630.jpg",
+      "address": "near pandey chowk behind jay hind college pandeypur chauraha varansi "
+    }
+  ],
+  "addtask": []
+}
