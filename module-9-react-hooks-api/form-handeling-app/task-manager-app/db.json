@@ -1,5 +1,46 @@
 {
-  "contactus": [],
+  "contactus": [
+    {
+      "id": "3763",
+      "name": "brijesh",
+      "email": "bkpandey.pandey@gmail.com",
+      "phone": "9121212121",
+      "subject": "hi",
+      "message": "good"
+    },
+    {
+      "id": "7896",
+      "name": "kartik",
+      "email": "kartik@gmail.com",
+      "phone": "9521212121",
+      "subject": "hi",
+      "message": "hi"
+    },
+    {
+      "id": "e4f9",
+      "name": "paras",
+      "email": "paras@gmail.com",
+      "phone": "9521212121",
+      "subject": "hi",
+      "message": "hi"
+    },
+    {
+      "id": "ebdd",
+      "name": "kumar",
+      "email": "kumar@gmail.com",
+      "phone": "91212121",
+      "subject": "hi",
+      "message": "hi"
+    },
+    {
+      "id": "a1e9",
+      "name": "bhomi",
+      "email": "faldubhoomi4@gmail.com",
+      "phone": "8121212121",
+      "subject": "customer care number",
+      "message": "hey please send me customer care numbers"
+    }
+  ],
   "addemployee": [
     {
       "id": "cb5a",
@@ -50,7 +91,36 @@
       "age": "34",
       "photo": "https://thumbs.dreamstime.com/b/cheerful-d-boy-backpack-his-back-leaves-school-jumps-across-water-to-avtar-schoolboy-329290630.jpg",
       "address": "near pandey chowk behind jay hind college pandeypur chauraha varansi "
+    },
+    {
+      "id": "3e4c",
+      "name": "ait",
+      "email": "amit009@gmail.com",
+      "password": "123456",
+      "phone": "9998003879",
+      "age": "21",
+      "photo": "https://img.freepik.com/free-vector/smiling-young-man-illustration_1308-174669.jpg",
+      "address": "ahemdabad"
     }
   ],
-  "addtask": []
+  "addtask": [
+    {
+      "id": "1388",
+      "taskname": "angular crud operations",
+      "employeename": "bhoomi",
+      "taskdetails": "CRUD operations in Angular refer to the implementation of Create, Read, Update, and Delete functionalities within an Angular application, typically interacting with a backend API to manage data persistence",
+      "duedate": "2025-09-17",
+      "priority": "Low",
+      "status": "Pending"
+    },
+    {
+      "id": "ab94",
+      "taskname": "react js local storage crup app",
+      "employeename": "avtar",
+      "taskdetails": "CRUD operations in Angular refer to the implementation of Create, Read, Update, and Delete functionalities within an Angular application, typically interacting with a backend API to manage data persistence",
+      "duedate": "2025-09-19",
+      "priority": "Medium",
+      "status": "In Progress"
+    }
+  ]
 }
