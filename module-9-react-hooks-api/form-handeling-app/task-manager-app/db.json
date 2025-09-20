@@ -1,44 +1,12 @@
 {
   "contactus": [
     {
-      "id": "3763",
-      "name": "brijesh",
-      "email": "bkpandey.pandey@gmail.com",
-      "phone": "9121212121",
-      "subject": "hi",
-      "message": "good"
-    },
-    {
-      "id": "7896",
-      "name": "kartik",
-      "email": "kartik@gmail.com",
-      "phone": "9521212121",
+      "id": "9eaa",
+      "name": "nnn",
+      "email": "abcd@gmail.com",
+      "phone": "993212121",
       "subject": "hi",
       "message": "hi"
-    },
-    {
-      "id": "e4f9",
-      "name": "paras",
-      "email": "paras@gmail.com",
-      "phone": "9521212121",
-      "subject": "hi",
-      "message": "hi"
-    },
-    {
-      "id": "ebdd",
-      "name": "kumar",
-      "email": "kumar@gmail.com",
-      "phone": "91212121",
-      "subject": "hi",
-      "message": "hi"
-    },
-    {
-      "id": "a1e9",
-      "name": "bhomi",
-      "email": "faldubhoomi4@gmail.com",
-      "phone": "8121212121",
-      "subject": "customer care number",
-      "message": "hey please send me customer care numbers"
     }
   ],
   "addemployee": [
@@ -105,15 +73,6 @@
   ],
   "addtask": [
     {
-      "id": "1388",
-      "taskname": "angular crud operations",
-      "employeename": "bhoomi",
-      "taskdetails": "CRUD operations in Angular refer to the implementation of Create, Read, Update, and Delete functionalities within an Angular application, typically interacting with a backend API to manage data persistence",
-      "duedate": "2025-09-17",
-      "priority": "Low",
-      "status": "Pending"
-    },
-    {
       "id": "ab94",
       "taskname": "react js local storage crup app",
       "employeename": "avtar",
@@ -121,6 +80,24 @@
       "duedate": "2025-09-19",
       "priority": "Medium",
       "status": "In Progress"
+    },
+    {
+      "id": "626a",
+      "taskname": "sanctum api via laravel",
+      "employeename": "avtar",
+      "taskdetails": "good and fast data calling via api in laravel",
+      "duedate": "2025-09-18",
+      "priority": "Medium",
+      "status": "In Progress"
+    },
+    {
+      "taskname": "crud operations",
+      "employeename": "Brijesh",
+      "taskdetails": "good for fetching via url data and high speed",
+      "duedate": "2025-09-26",
+      "priority": "Low",
+      "status": "In Progress",
+      "id": "b4a0"
     }
   ]
 }

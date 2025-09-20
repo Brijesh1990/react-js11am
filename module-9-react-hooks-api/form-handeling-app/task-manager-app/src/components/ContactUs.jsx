@@ -15,9 +15,9 @@ const  message=useRef("");
 const navigate=useNavigate();
 
 // stored all email serviceId | PublicId | templateId
-const serviceId="service_k4bodyj";
-const templateId="template_95b13bh";
-const publicKey="I3OKeIkWPY2_W0BsP";
+const serviceId="";
+const templateId="";
+const publicKey="";
 
 // stored all data in object for post via axios.post()
 const addFormData=async(e)=>{

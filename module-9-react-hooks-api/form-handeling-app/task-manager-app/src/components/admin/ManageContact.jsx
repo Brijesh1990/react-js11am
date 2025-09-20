@@ -2,8 +2,11 @@ import React,{useState,useEffect} from 'react'
 import axios from 'axios';
 import Header from './Header'
 import Sidebar from './Sidebar'
+import { useNavigate } from 'react-router-dom';
 export default function ManageContact() {
 const[data,setData]=useState("");
+const navigate=useNavigate("");
+
 useEffect(()=>{
 try
 {
@@ -50,7 +53,7 @@ return (
 <td className='py-2 px-4 border-b'>{rows.subject}</td>
 <td className='py-2 px-4 border-b'>{rows.message}</td>
 <td className='py-2 px-4 border-b'>
-<button className='bg-red-500 text-white px-3 py-1 rounded hover:bg-red-600'>Delete</button>
+<button className='bg-red-500 text-white px-3 py-1 rounded hover:bg-red-600' onClick={()=>navigate(`/admin-login/manage-contact/${rows.id}`)}>Delete</button>
 </td>
 </tr>
 </>
