@@ -1,0 +1,42 @@
+{
+  "attendance": [
+    {
+      "id": "86b2",
+      "studentname": "raj",
+      "attdate": "2025-09-19",
+      "status": "absent"
+    },
+    {
+      "id": "efb9",
+      "studentname": "paras",
+      "attdate": "2025-09-19",
+      "status": "absent"
+    },
+    {
+      "id": "2d63",
+      "studentname": "raj",
+      "attdate": "2025-09-19",
+      "status": "absent"
+    },
+    {
+      "id": "d9b1",
+      "studentname": "paras",
+      "attdate": "2025-09-19",
+      "status": "absent"
+    },
+    {
+      "id": "b0cf",
+      "studentname": "kartik",
+      "attdate": "2025-09-19",
+      "status": "absent"
+    },
+    {
+      "id": "ef44",
+      "studentname": "",
+      "attdate": "",
+      "status": "absent"
+    }
+  ],
+  "contact-us": [],
+  "create-account": []
+}
