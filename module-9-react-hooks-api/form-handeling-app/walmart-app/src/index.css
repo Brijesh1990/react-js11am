@@ -1,0 +1,21 @@
+
+/* task manager app Web app admin panel css */
+.sidebar-links
+{
+width: 100%;
+height: auto;  
+}
+.sidebar-links li 
+{
+display: block;
+text-decoration: none;
+list-style-type: none;  
+padding: 10px 0px;
+}
+.sidebar-links a 
+{
+color: white;
+font-size: 15px;
+
+}
+@import 'tailwindcss'

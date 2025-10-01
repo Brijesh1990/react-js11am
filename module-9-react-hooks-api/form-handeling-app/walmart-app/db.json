@@ -1,0 +1,339 @@
+{
+  "category": [
+    {
+      "id": "bc8e",
+      "categoryname": "kids shoes"
+    },
+    {
+      "id": "7674",
+      "categoryname": "Kids toys"
+    },
+    {
+      "id": "c0f8",
+      "categoryname": "Kids shirts"
+    },
+    {
+      "id": "5edb",
+      "categoryname": "kids T-shirts"
+    },
+    {
+      "id": "7f38",
+      "categoryname": "Kids paint"
+    }
+  ],
+  "products": [
+    {
+      "id": "9912",
+      "categoryname": "Kids T-shirts",
+      "photo": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-t-shirt/y/s/q/10-11-years-kd-906-style-hood-grey-m-uzee-original-imaguxrrjfernhke.jpeg?q=70",
+      "productname": "kids T-shirt casulas",
+      "oldprice": "255",
+      "newprice": "184",
+      "addeddate": "2025-09-30",
+      "qty": "1",
+      "descriptions": "KD-906-STYLE-HOOD-GREY-26 for kids best feeting size"
+    },
+    {
+      "id": "ee9c",
+      "categoryname": "Kids T-shirts",
+      "photo": "https://rukminim2.flixcart.com/image/612/612/xif0q/sweatshirt/b/z/u/5-6-years-sw-jf-4112-supersquad-original-imah5vpmxn8yhp68.jpeg?q=70",
+      "productname": "kids typography t-shirts",
+      "oldprice": "450",
+      "newprice": "350",
+      "addeddate": "2025-09-30",
+      "qty": "1",
+      "descriptions": "Kids T-Shirts - Shop for trendy and comfortable kids t-shirts online at Myntra. Choose from a wide range of designs, colors, and sizes for boys and girls."
+    },
+    {
+      "id": "412f",
+      "categoryname": "Kids toys",
+      "photo": "https://rukminim2.flixcart.com/image/612/612/l4x2rgw0/stuffed-toy/f/y/3/big-size-plush-husky-dog-stuffed-animal-soft-toy-gifts-for-kids-original-imagfppmqbzhrmjb.jpeg?q=70",
+      "productname": "Husky dog",
+      "oldprice": "455",
+      "newprice": "355",
+      "addeddate": "2025-09-30",
+      "qty": "1",
+      "descriptions": "Not even the biggest snowbank can keep our plush Husky dog from his goal! With his exuberant energy and handsome grey and white coat, has got what it takes to traverse the toughest trails in the snowiest backcountry. Featuring a thick, soft coat of plush fur and an engaging stand up pose, this Husky is a perfect stuffed animal for cuddly hugs or playtime adventures. Alert eyes and a generously fringed fluffy tail add to realistic, playful appearance. Bring home this courageous, cold-loving plush pup and he'll be your warm, cuddly companion!"
+    },
+    {
+      "id": "aaab",
+      "categoryname": "Kids toys",
+      "photo": "https://rukminim2.flixcart.com/image/612/612/xif0q/stuffed-toy/z/r/a/-original-imah93d5hqvmtjyz.jpeg?q=70",
+      "productname": "Nyra teddy bear",
+      "oldprice": "655",
+      "newprice": "455",
+      "addeddate": "2025-09-30",
+      "qty": "1",
+      "descriptions": "Plush Teddy Bear with Star Paw Valentine Gift for Wife Husband Boy & Girlfriends"
+    },
+    {
+      "id": "97d9",
+      "categoryname": "Kids paint",
+      "photo": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/i/c/s/2-3-years-grey-nul-trip-mart-original-imahe8trzggy37et.jpeg?q=70",
+      "productname": "kids jeans paint",
+      "oldprice": "855",
+      "newprice": "655",
+      "addeddate": "2025-09-30",
+      "qty": "1",
+      "descriptions": "Urbano Juniors good for kids"
+    }
+  ],
+  "cart": [
+    {
+      "id": "4420",
+      "categoryname": "Kids toys",
+      "imgurl": "https://rukminim2.flixcart.com/image/612/612/xif0q/stuffed-toy/z/r/a/-original-imah93d5hqvmtjyz.jpeg?q=70",
+      "photo": "https://rukminim2.flixcart.com/image/612/612/xif0q/stuffed-toy/z/r/a/-original-imah93d5hqvmtjyz.jpeg?q=70",
+      "productname": "Nyra teddy bear",
+      "oldprice": "655",
+      "newprice": "455",
+      "addeddate": "2025-09-30",
+      "qty": "1",
+      "descriptions": "Plush Teddy Bear with Star Paw Valentine Gift for Wife Husband Boy & Girlfriends"
+    },
+    {
+      "id": "f687",
+      "categoryname": "Kids toys",
+      "imgurl": "https://rukminim2.flixcart.com/image/612/612/xif0q/stuffed-toy/z/r/a/-original-imah93d5hqvmtjyz.jpeg?q=70",
+      "photo": "https://rukminim2.flixcart.com/image/612/612/xif0q/stuffed-toy/z/r/a/-original-imah93d5hqvmtjyz.jpeg?q=70",
+      "productname": "Nyra teddy bear",
+      "oldprice": "655",
+      "newprice": "455",
+      "addeddate": "2025-09-30",
+      "qty": "1",
+      "descriptions": "Plush Teddy Bear with Star Paw Valentine Gift for Wife Husband Boy & Girlfriends"
+    },
+    {
+      "id": "3369",
+      "categoryname": "Kids toys",
+      "imgurl": "https://rukminim2.flixcart.com/image/612/612/xif0q/stuffed-toy/z/r/a/-original-imah93d5hqvmtjyz.jpeg?q=70",
+      "photo": "https://rukminim2.flixcart.com/image/612/612/xif0q/stuffed-toy/z/r/a/-original-imah93d5hqvmtjyz.jpeg?q=70",
+      "productname": "Nyra teddy bear",
+      "oldprice": "655",
+      "newprice": "455",
+      "addeddate": "2025-09-30",
+      "qty": "1",
+      "descriptions": "Plush Teddy Bear with Star Paw Valentine Gift for Wife Husband Boy & Girlfriends"
+    },
+    {
+      "id": "b6c9",
+      "categoryname": "Kids T-shirts",
+      "imgurl": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-t-shirt/y/s/q/10-11-years-kd-906-style-hood-grey-m-uzee-original-imaguxrrjfernhke.jpeg?q=70",
+      "photo": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-t-shirt/y/s/q/10-11-years-kd-906-style-hood-grey-m-uzee-original-imaguxrrjfernhke.jpeg?q=70",
+      "productname": "kids T-shirt casulas",
+      "oldprice": "255",
+      "newprice": "184",
+      "addeddate": "2025-09-30",
+      "qty": "1",
+      "descriptions": "KD-906-STYLE-HOOD-GREY-26 for kids best feeting size"
+    },
+    {
+      "id": "b8f7",
+      "categoryname": "Kids paint",
+      "imgurl": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/i/c/s/2-3-years-grey-nul-trip-mart-original-imahe8trzggy37et.jpeg?q=70",
+      "photo": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/i/c/s/2-3-years-grey-nul-trip-mart-original-imahe8trzggy37et.jpeg?q=70",
+      "productname": "kids jeans paint",
+      "oldprice": "855",
+      "newprice": "655",
+      "addeddate": "2025-09-30",
+      "qty": "1",
+      "descriptions": "Urbano Juniors good for kids"
+    },
+    {
+      "id": "faa3",
+      "categoryname": "Kids toys",
+      "imgurl": "https://rukminim2.flixcart.com/image/612/612/xif0q/stuffed-toy/z/r/a/-original-imah93d5hqvmtjyz.jpeg?q=70",
+      "photo": "https://rukminim2.flixcart.com/image/612/612/xif0q/stuffed-toy/z/r/a/-original-imah93d5hqvmtjyz.jpeg?q=70",
+      "productname": "Nyra teddy bear",
+      "oldprice": "655",
+      "newprice": "455",
+      "addeddate": "2025-09-30",
+      "qty": "1",
+      "descriptions": "Plush Teddy Bear with Star Paw Valentine Gift for Wife Husband Boy & Girlfriends"
+    },
+    {
+      "id": "cac3",
+      "categoryname": "Kids toys",
+      "imgurl": "https://rukminim2.flixcart.com/image/612/612/xif0q/stuffed-toy/z/r/a/-original-imah93d5hqvmtjyz.jpeg?q=70",
+      "photo": "https://rukminim2.flixcart.com/image/612/612/xif0q/stuffed-toy/z/r/a/-original-imah93d5hqvmtjyz.jpeg?q=70",
+      "productname": "Nyra teddy bear",
+      "oldprice": "655",
+      "newprice": "455",
+      "addeddate": "2025-09-30",
+      "qty": "1",
+      "descriptions": "Plush Teddy Bear with Star Paw Valentine Gift for Wife Husband Boy & Girlfriends"
+    },
+    {
+      "id": "6449",
+      "categoryname": "Kids paint",
+      "imgurl": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/i/c/s/2-3-years-grey-nul-trip-mart-original-imahe8trzggy37et.jpeg?q=70",
+      "photo": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/i/c/s/2-3-years-grey-nul-trip-mart-original-imahe8trzggy37et.jpeg?q=70",
+      "productname": "kids jeans paint",
+      "oldprice": "855",
+      "newprice": "655",
+      "addeddate": "2025-09-30",
+      "qty": "1",
+      "descriptions": "Urbano Juniors good for kids"
+    },
+    {
+      "id": "68aa",
+      "categoryname": "Kids paint",
+      "imgurl": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/i/c/s/2-3-years-grey-nul-trip-mart-original-imahe8trzggy37et.jpeg?q=70",
+      "photo": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/i/c/s/2-3-years-grey-nul-trip-mart-original-imahe8trzggy37et.jpeg?q=70",
+      "productname": "kids jeans paint",
+      "oldprice": "855",
+      "newprice": "655",
+      "addeddate": "2025-09-30",
+      "qty": "1",
+      "descriptions": "Urbano Juniors good for kids"
+    },
+    {
+      "id": "6c13",
+      "categoryname": "Kids paint",
+      "imgurl": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/i/c/s/2-3-years-grey-nul-trip-mart-original-imahe8trzggy37et.jpeg?q=70",
+      "photo": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/i/c/s/2-3-years-grey-nul-trip-mart-original-imahe8trzggy37et.jpeg?q=70",
+      "productname": "kids jeans paint",
+      "oldprice": "855",
+      "newprice": "655",
+      "addeddate": "2025-09-30",
+      "qty": "1",
+      "descriptions": "Urbano Juniors good for kids"
+    },
+    {
+      "id": "250f",
+      "categoryname": "Kids paint",
+      "imgurl": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/i/c/s/2-3-years-grey-nul-trip-mart-original-imahe8trzggy37et.jpeg?q=70",
+      "photo": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/i/c/s/2-3-years-grey-nul-trip-mart-original-imahe8trzggy37et.jpeg?q=70",
+      "productname": "kids jeans paint",
+      "oldprice": "855",
+      "newprice": "655",
+      "addeddate": "2025-09-30",
+      "qty": "1",
+      "descriptions": "Urbano Juniors good for kids"
+    },
+    {
+      "id": "8b02",
+      "categoryname": "Kids paint",
+      "imgurl": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/i/c/s/2-3-years-grey-nul-trip-mart-original-imahe8trzggy37et.jpeg?q=70",
+      "photo": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/i/c/s/2-3-years-grey-nul-trip-mart-original-imahe8trzggy37et.jpeg?q=70",
+      "productname": "kids jeans paint",
+      "oldprice": "855",
+      "newprice": "655",
+      "addeddate": "2025-09-30",
+      "qty": "1",
+      "descriptions": "Urbano Juniors good for kids"
+    },
+    {
+      "id": "290a",
+      "categoryname": "Kids toys",
+      "imgurl": "https://rukminim2.flixcart.com/image/612/612/xif0q/stuffed-toy/z/r/a/-original-imah93d5hqvmtjyz.jpeg?q=70",
+      "photo": "https://rukminim2.flixcart.com/image/612/612/xif0q/stuffed-toy/z/r/a/-original-imah93d5hqvmtjyz.jpeg?q=70",
+      "productname": "Nyra teddy bear",
+      "oldprice": "655",
+      "newprice": "455",
+      "addeddate": "2025-09-30",
+      "qty": "1",
+      "descriptions": "Plush Teddy Bear with Star Paw Valentine Gift for Wife Husband Boy & Girlfriends"
+    },
+    {
+      "id": "e7f8",
+      "categoryname": "Kids toys",
+      "imgurl": "https://rukminim2.flixcart.com/image/612/612/xif0q/stuffed-toy/z/r/a/-original-imah93d5hqvmtjyz.jpeg?q=70",
+      "photo": "https://rukminim2.flixcart.com/image/612/612/xif0q/stuffed-toy/z/r/a/-original-imah93d5hqvmtjyz.jpeg?q=70",
+      "productname": "Nyra teddy bear",
+      "oldprice": "655",
+      "newprice": "455",
+      "addeddate": "2025-09-30",
+      "qty": "1",
+      "descriptions": "Plush Teddy Bear with Star Paw Valentine Gift for Wife Husband Boy & Girlfriends"
+    },
+    {
+      "id": "cf2d",
+      "categoryname": "Kids toys",
+      "imgurl": "https://rukminim2.flixcart.com/image/612/612/xif0q/stuffed-toy/z/r/a/-original-imah93d5hqvmtjyz.jpeg?q=70",
+      "photo": "https://rukminim2.flixcart.com/image/612/612/xif0q/stuffed-toy/z/r/a/-original-imah93d5hqvmtjyz.jpeg?q=70",
+      "productname": "Nyra teddy bear",
+      "oldprice": "655",
+      "newprice": "455",
+      "addeddate": "2025-09-30",
+      "qty": "1",
+      "descriptions": "Plush Teddy Bear with Star Paw Valentine Gift for Wife Husband Boy & Girlfriends"
+    },
+    {
+      "id": "e1da",
+      "categoryname": "Kids toys",
+      "imgurl": "https://rukminim2.flixcart.com/image/612/612/xif0q/stuffed-toy/z/r/a/-original-imah93d5hqvmtjyz.jpeg?q=70",
+      "photo": "https://rukminim2.flixcart.com/image/612/612/xif0q/stuffed-toy/z/r/a/-original-imah93d5hqvmtjyz.jpeg?q=70",
+      "productname": "Nyra teddy bear",
+      "oldprice": "655",
+      "newprice": "455",
+      "addeddate": "2025-09-30",
+      "qty": "1",
+      "descriptions": "Plush Teddy Bear with Star Paw Valentine Gift for Wife Husband Boy & Girlfriends"
+    },
+    {
+      "id": "f1f5",
+      "categoryname": "Kids toys",
+      "imgurl": "https://rukminim2.flixcart.com/image/612/612/xif0q/stuffed-toy/z/r/a/-original-imah93d5hqvmtjyz.jpeg?q=70",
+      "photo": "https://rukminim2.flixcart.com/image/612/612/xif0q/stuffed-toy/z/r/a/-original-imah93d5hqvmtjyz.jpeg?q=70",
+      "productname": "Nyra teddy bear",
+      "oldprice": "655",
+      "newprice": "455",
+      "addeddate": "2025-09-30",
+      "qty": "1",
+      "descriptions": "Plush Teddy Bear with Star Paw Valentine Gift for Wife Husband Boy & Girlfriends"
+    },
+    {
+      "id": "e781",
+      "categoryname": "Kids toys",
+      "imgurl": "https://rukminim2.flixcart.com/image/612/612/xif0q/stuffed-toy/z/r/a/-original-imah93d5hqvmtjyz.jpeg?q=70",
+      "photo": "https://rukminim2.flixcart.com/image/612/612/xif0q/stuffed-toy/z/r/a/-original-imah93d5hqvmtjyz.jpeg?q=70",
+      "productname": "Nyra teddy bear",
+      "oldprice": "655",
+      "newprice": "455",
+      "addeddate": "2025-09-30",
+      "qty": "1",
+      "descriptions": "Plush Teddy Bear with Star Paw Valentine Gift for Wife Husband Boy & Girlfriends"
+    },
+    {
+      "id": "67fc",
+      "categoryname": "Kids toys",
+      "imgurl": "https://rukminim2.flixcart.com/image/612/612/xif0q/stuffed-toy/z/r/a/-original-imah93d5hqvmtjyz.jpeg?q=70",
+      "photo": "https://rukminim2.flixcart.com/image/612/612/xif0q/stuffed-toy/z/r/a/-original-imah93d5hqvmtjyz.jpeg?q=70",
+      "productname": "Nyra teddy bear",
+      "oldprice": "655",
+      "newprice": "455",
+      "addeddate": "2025-09-30",
+      "qty": "1",
+      "descriptions": "Plush Teddy Bear with Star Paw Valentine Gift for Wife Husband Boy & Girlfriends"
+    },
+    {
+      "id": "7577",
+      "categoryname": "Kids T-shirts",
+      "imgurl": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-t-shirt/y/s/q/10-11-years-kd-906-style-hood-grey-m-uzee-original-imaguxrrjfernhke.jpeg?q=70",
+      "photo": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-t-shirt/y/s/q/10-11-years-kd-906-style-hood-grey-m-uzee-original-imaguxrrjfernhke.jpeg?q=70",
+      "productname": "kids T-shirt casulas",
+      "oldprice": "255",
+      "newprice": "184",
+      "addeddate": "2025-09-30",
+      "qty": "1",
+      "descriptions": "KD-906-STYLE-HOOD-GREY-26 for kids best feeting size"
+    },
+    {
+      "id": "916a",
+      "categoryname": "Kids T-shirts",
+      "imgurl": "https://rukminim2.flixcart.com/image/612/612/xif0q/sweatshirt/b/z/u/5-6-years-sw-jf-4112-supersquad-original-imah5vpmxn8yhp68.jpeg?q=70",
+      "photo": "https://rukminim2.flixcart.com/image/612/612/xif0q/sweatshirt/b/z/u/5-6-years-sw-jf-4112-supersquad-original-imah5vpmxn8yhp68.jpeg?q=70",
+      "productname": "kids typography t-shirts",
+      "oldprice": "450",
+      "newprice": "350",
+      "addeddate": "2025-09-30",
+      "qty": "1",
+      "descriptions": "Kids T-Shirts - Shop for trendy and comfortable kids t-shirts online at Myntra. Choose from a wide range of designs, colors, and sizes for boys and girls."
+    }
+  ],
+  "orders": [],
+  "bills": [],
+  "contactus": [],
+  "reviews": []
+}
