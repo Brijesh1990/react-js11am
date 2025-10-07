@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<link rel="icon" type="image/svg+xml" href="/vite.svg" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>walmart-app</title>
+</head>
+<body>
+<div id="root"></div>
+<script type="module" src="/src/main.jsx"></script>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+const checkIcon = document.getElementById('check-icon');
+const card = document.getElementById('confirmation-card');
+
+// 1. Start the check icon animation
+checkIcon.classList.add('animate-scaleIn');
+
+// 2. Start the card animation slightly after the icon starts
+// The slideInUp keyframe already has a delay, but this ensures the class is added.
+card.classList.add('animate-slideInUp');
+});
+</script>
+</body>
+</html>
