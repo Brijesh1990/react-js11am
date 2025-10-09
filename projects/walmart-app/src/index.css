@@ -1,0 +1,37 @@
+
+/* task manager app Web app admin panel css */
+.sidebar-links
+{
+width: 100%;
+height: auto;  
+}
+.sidebar-links li 
+{
+display: block;
+text-decoration: none;
+list-style-type: none;  
+padding: 10px 0px;
+}
+.sidebar-links a 
+{
+color: white;
+font-size: 15px;
+}
+/* Custom Keyframe for the checkmark bounce/scale effect */
+@keyframes scaleIn {
+0% { transform: scale(0); opacity: 0; }
+80% { transform: scale(1.1); opacity: 1; }
+100% { transform: scale(1); opacity: 1; }
+}
+/* Custom Keyframe for the card slide-in/fade effect */
+@keyframes slideInUp {
+0% { transform: translateY(50px); opacity: 0; }
+100% { transform: translateY(0); opacity: 1; }
+}
+.animate-scaleIn {
+animation: scaleIn 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55) forwards;
+}
+.animate-slideInUp {
+animation: slideInUp 0.6s ease-out 0.3s forwards; /* 0.3s delay for sequencing */
+}
+@import 'tailwindcss'
